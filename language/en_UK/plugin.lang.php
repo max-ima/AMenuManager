@@ -119,5 +119,6 @@ $lang['g002_album'] = "Album &rArr; menu";
 $lang['g002_setting_albums_menus'] = "Albums to convert to menu";
 $lang['gmaps_gpc_not_up_to_date']="It is necessary for the plugin that the <i>Grum Plugin Classes</i> version %s is installed.
 Currently, version %s is installed: please proceed with the update version of the plugin <i>Grum Plugin Classes</i>.";
-
+$lang['g002_edit'] = "Edit";
+$lang['g002_delete'] = "Delete";
 ?>
