@@ -101,3 +101,5 @@ $lang['g002_setmenu'] = 'Upravljanje menija';
 $lang['g002_version'] = 'r';
 $lang['g002_title_page'] = 'Napredno upravljanje menijev';
 $lang['Grum Plugin Classes is not installed'] = 'Vtičnik <b>Grum Plugin Classes</b> ni nameščen';
+$lang['g002_edit'] = "Uredi";
+$lang['g002_delete'] = "Izbriši";
